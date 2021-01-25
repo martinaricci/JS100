@@ -1,0 +1,2 @@
+No it won't return an error because it's referring to the const FOO on line 1 which has a global scope. 
+The const on line 3 doesn't reassign the const on line 1 because the latter is in a different block/scope.
