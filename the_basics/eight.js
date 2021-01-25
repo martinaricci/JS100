@@ -1,0 +1,1 @@
+const names = ['Mia', 'Birillo', 'Rex', 'Milo', 'George']

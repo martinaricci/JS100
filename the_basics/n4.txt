@@ -1,0 +1,2 @@
+Because '5' is a string. 
+JavaScript concatenates the two values as though they were both strings. First, it converts (coerces) the number 10 to a string; it then concatenates the result to the string '5'.

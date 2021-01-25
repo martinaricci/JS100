@@ -1,0 +1,5 @@
+MY INITIAL GUESS:
+Yes, it will result in an error.
+
+AFTER GOOGLING:
+No, it will return an undefined value.
