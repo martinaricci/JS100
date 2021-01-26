@@ -1,0 +1,1 @@
+It will not log anything because the function gets terminated by the return statement.
