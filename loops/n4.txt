@@ -1,0 +1,5 @@
+My INITIAL GUESS:
+The three components of a foor loop are mandatory so the code will produce an error.
+
+AFTER MY RESEARCH:
+The three components are NOT mandatory. The first iteration (let i = 0) gets incremented in the console.log(), which is fine.
