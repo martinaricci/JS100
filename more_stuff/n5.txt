@@ -1,0 +1,9 @@
+string.split(' ') => will split the string, using a space, as a separator.
+
+.reverse() => will reverse the order of the strings.
+
+.map((value) => value.length); => will return the length of each string value.
+
+RESULT:
+doSomething("Ciao mi chiamo Martina")
+(4) [7, 6, 2, 4]

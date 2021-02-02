@@ -1,0 +1,4 @@
+It's telling me that the variable greeting is not been defined, it doesn't exist. 
+JavaScript detected the error at character 15 on line 4. And the error is in the hello function. 
+
+at Object.<anonymous> tells us that we called the hello function from an anonymous function: one with no name. 
