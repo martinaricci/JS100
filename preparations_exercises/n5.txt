@@ -1,0 +1,5 @@
+substring = PROTOTYPE
+create = STATIC
+fromCharCode = STATIC
+slice = PROTOTYPE
+toString = PROTOTYPE

@@ -1,0 +1,3 @@
+It will log "1" because the "bar" argument in the console.log() on line 7 is referring to the global variable "bar" on line 1.
+
+No, the execution of the foo function doesn't affect the output because the variable bar on line 3 has a local scope.

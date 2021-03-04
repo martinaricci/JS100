@@ -1,0 +1,5 @@
+PRIMITIVE
+6
+
+OBJECTS
+4

@@ -1,0 +1,2 @@
+It will return an error because you're trying to reassign a constant value. 
+Constants are not mutable, they can't change. You should use let instead. 

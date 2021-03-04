@@ -1,0 +1,7 @@
+Exception handling is a process or method used for handling the errors and abnormal statements in a code and executing them.
+
+Eg - it handles: 
+SyntaxError
+ReferenceError
+TypeError
+etc...

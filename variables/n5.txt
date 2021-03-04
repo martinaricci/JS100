@@ -1,0 +1,3 @@
+It will return 'bar' because "let foo = 'bar';" has a global scope.
+
+"let foo = 'qux';" is a block scope.

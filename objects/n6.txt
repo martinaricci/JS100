@@ -1,0 +1,13 @@
+PRIMITIVE:
+strings
+numbers
+false
+undefined
+
+OBJECTS:
+[ 'a', 'b', 'c' ]
+function bar() { return "bar"; }
+{ a: 1, b: 2 }
+
+NEITHER OF THEM:
+foo
